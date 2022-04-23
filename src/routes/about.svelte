@@ -23,10 +23,19 @@
                 <span class="text-transparent font-bold bg-clip-text bg-gradient-to-r from-slate-500 to-slate-700">Python, Javascript, Dart and C#.</span>
             </p>
         </div>
-        <div class="flex flex-col justify-center items-center bg-slate-700">
-            <span class="lg:w-1/2 lg:h-1/2 lg:p-20 p-4">
-                <Card title="Phoneguybot" desc="A discord bot using Python and discord.py. It has 30 commands that you can use on your server." link="https://github.com/Phoneguytech75/PhoneguyBot" image="https://cdn.discordapp.com/avatars/852619132138160148/3279a298c890dd33d900a1cd2bbcc7e7.png?size=4096"/>
-            </span>
+        <div class="flex flex-col justify-center items-center bg-slate-400/60 p-6">
+            <h2 class="font-bold underline  lg:text-6xl md:text-6xl text-4xl">
+               Sample Projects:
+            </h2>
+            
+            <div class="flex lg:flex-row md:flex-row flex-col">
+                <span class="lg:w-1/2 lg:h-1/2 lg:p-20 p-4">
+                    <Card title="Phoneguybot" desc="A discord bot using Python and discord.py. It has 30 commands that you can use on your server." gitlink="https://github.com/Phoneguytech75/PhoneguyBot" image="https://cdn.discordapp.com/avatars/852619132138160148/3279a298c890dd33d900a1cd2bbcc7e7.png?size=4096"/>
+                </span>
+                <span class="lg:w-1/2 lg:h-1/2 lg:p-20 p-4">
+                    <Card title="PhCode 2" desc="A terrible programming language written in Python. It is more simpiler than something like the Python programming language. Don't use it." gitlink="https://github.com/Phoneguytech75/Phcode-2" image="https://github.com/Phoneguytech75/PhCode-2/blob/master/images/PhCode-Logo.png?raw=true"/>
+                </span>
+            </div>    
         </div>
     </div>    
 </section>
