@@ -2,9 +2,6 @@
 	let count = 0;
 	const increment = () => {
 		count++;
-		if (count >= 10) {
-			count = 0;
-		}
 	}
 </script>
 

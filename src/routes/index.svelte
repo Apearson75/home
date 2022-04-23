@@ -13,7 +13,7 @@
 
 <section class="bg-gradient-to-r from-sky-500 to-blue-500">
 	<Nav />
-	<header class="flex flex-col min-h-screen text-center justify-center items-center bg-gradient-to-r from-sky-500 to-blue-500">
+	<header class="flex flex-col min-h-screen text-center justify-center items-center bg-gradient-to-r from-sky-400 to-blue-500">
 		<h1 class="my-10 text-9xl text-white font-bold">
 			Hello World 👋
 		</h1>		
